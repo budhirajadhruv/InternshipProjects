@@ -1,0 +1,40 @@
+Design Choices:
+Clean and Minimalistic:
+
+The overall design aims for a clean and minimalistic look to enhance user readability and focus on key pricing information.
+Contrasting Colors:
+
+The use of contrasting colors, such as a dark background for the header and footer, ensures a visually appealing and readable interface.
+Flexbox for Layout:
+
+Flexbox is utilized for the pricing options layout, providing a responsive and flexible structure that adapts well to various screen sizes.
+Features Implementation:
+Interactive Toggles:
+
+Toggles are introduced for each pricing option, allowing users to switch between monthly and annual plans dynamically. This enhances user engagement and provides flexibility.
+Currency Customization:
+
+Although not explicitly implemented in this basic example, the structure allows for easy currency customization by updating the currency symbols in the prices.
+Responsive Design:
+
+The use of responsive design principles ensures that the pricing page is accessible and visually appealing across a wide range of devices and screen sizes.
+Challenges:
+JavaScript Integration:
+
+Integrating JavaScript for interactive toggles required careful consideration to ensure a smooth user experience. The challenge was to synchronize the toggle states with the displayed prices accurately.
+Responsive Design Testing:
+
+Ensuring the responsiveness across different devices and screen sizes required thorough testing. Adjustments were made to the CSS to handle varying dimensions without compromising the layout or readability.
+Customization Extensibility:
+
+While the basic structure allows for currency customization, extending the customization to include other elements (such as units) might require additional JavaScript and HTML modifications.
+Future Improvements:
+More Pricing Options:
+
+Depending on the complexity of the pricing structure, incorporating additional pricing options may require adjustments to the layout and interaction design.
+Enhanced Styling:
+
+Further customization and styling can be applied to improve visual aesthetics and align the design with branding guidelines.
+Accessibility Considerations:
+
+Future iterations should focus on accessibility features to ensure the pricing page is usable by individuals with disabilities, including proper keyboard navigation and screen reader compatibility.
